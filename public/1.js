@@ -1,0 +1,3 @@
+addJss.onclick = () => {
+  alert("ok")
+}
