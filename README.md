@@ -1,1 +1,1 @@
-# http
+原生js实现ajax
